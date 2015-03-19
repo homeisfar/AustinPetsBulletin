@@ -1,6 +1,7 @@
 # AustinPetsBulletin
 A (not nearly yet finished) app designed to create an easily searchable database pulled from data.austintexas.gov. The end goal is to help pet-owners find pets picked up by the city and taken to the Austin Animal Center.
 
+Currently, this app only reads in a test JSON file I've set aside on my cs lab machine and displays its entries in a list (in awful formatting, due to the SDK behind the API not playing nice with Gradle).
 
 Future iterations of the project will include a Google Maps interface that will allow users to see through pins where stray animals have been picked up, as well as a search/filter feature.
 
